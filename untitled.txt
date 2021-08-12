@@ -1,0 +1,20 @@
+sec3
+w=1440 h=800
+Caption: Statistics
+small hero text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.
+mw=800
+mb=176
+4 cards:-
+no1= 123 Outlets
+no2= 100 CHEF
+no3= 300 Menu
+no4= 30 Country
+curve3: 
+w=1770 h=1021 ml=-255 mt=-340
+sec4:
+Caption=Chicken Grill mt=156 ml=135
+div mb=280
+img:
+475*475 mt=107 ml=840
+
+img mt=-107
